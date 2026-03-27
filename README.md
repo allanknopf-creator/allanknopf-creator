@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Allan Derik Boeira Knopf
 
 🎓 Estudante da Aprendizagem Industrial  Em Programador de Sistemas de Informação
-💻 Interessado em tecnologia, programação e inovação  
+💻 Interessado em tecnologia, programação e inovação Contratado Pela Empresa JBS
 
 ---
 
