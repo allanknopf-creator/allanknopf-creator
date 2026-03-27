@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou Allan Derik Boeira Knopf
 
-🎓 Estudante da Aprendizagem Industrial  Em Programador de Sistemas de Informação. (SENAI) Contratado pela Empresa Seara Alimentos
+🎓 Estudante da Aprendizagem Industrial  Em Programador de Sistemas de Informação. (SENAI) Contratado pela Empresa Seara Alimentos.
+🎓 Estudante do 1º Do Ensino Médio da Escola de Educação Básica Governador Bornhausen 2026.
+
+
 💻 Interessado Em Tecnologia, Programação e Inovação Contratado Pela Empresa JBS
 
 ---
